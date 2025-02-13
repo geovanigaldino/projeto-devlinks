@@ -5,11 +5,10 @@
 </p>
 
 <p align="center">
-  <a href="#Tecnologias">Tecnologias</a> |
-  <a href="#Projeto">Projeto</a> |
-  <a href="#Licença">Licença</a>
+  <a href="#tecnologias"><strong>Tecnologias</strong></a> |
+  <a href="#projeto"><strong>Projeto</strong></a> |
+  <a href="#licença"><strong>Licença</strong></a>
 </p>
-
 
 ## 🚀 Tecnologias
 Esse projeto foi desenvolvido com as seguintes tecnologias:
