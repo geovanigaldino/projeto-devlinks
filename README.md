@@ -4,12 +4,6 @@
   Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
 </p>
 
-<p align="center">
-  <a href="#tecnologias"><strong>Tecnologias</strong></a> |
-  <a href="#projeto"><strong>Projeto</strong></a> |
-  <a href="#licença"><strong>Licença</strong></a>
-</p>
-
 ## 🚀 Tecnologias
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
